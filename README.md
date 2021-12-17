@@ -1,4 +1,4 @@
-# Channel Automation Bot [@ChannelAutomateBot](https://t.me/ChannelAutomateBot)
+# Channel Automation Bot [@POST_EDITOR_OP_BOT](https://t.me/POST_EDITOR_OP_BOT)
 
 > A star ⭐ from you means a lot to us!
 
@@ -6,13 +6,13 @@
 
 Telegram bot to automate and manage channels.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Devnoob12/ChannelBot/)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/ChannelBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devnoob12/ChannelBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to automate and manage channels.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/ChannelBot
+   git clone https://github.com/Devnoob12/ChannelBot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -67,13 +67,12 @@ Telegram bot to automate and manage channels.
 ## Credits
 
 - [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
-- [The Legend](https://github.com/thelegend-16) for the idea as well as the project logo.
+- [The Legend](https://github.com/ITS_NOT_ROMEO) for the idea as well as the project logo.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@team_silent_king](https://t.me/team_silent_king)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
 
 ## :)
 
